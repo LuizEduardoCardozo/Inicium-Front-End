@@ -8,19 +8,15 @@ export const Container = styled.div`
     width: 25vw;
     margin: 30px;
     padding: 30px;
-    
     h1 {
         text-align: center;
     }
-
     div {
         margin-top: 15px;
         margin-left: auto;
         margin-right: auto;
     }
-
 `;
-
 export const Input = styled.input`
     width: 20vw;
     height: 3rem;
@@ -29,7 +25,6 @@ export const Input = styled.input`
     margin-left: auto;
     margin-right: auto;
 `;
-
 export const Button = styled.button`
     width: 90px;
     height: 30px;
