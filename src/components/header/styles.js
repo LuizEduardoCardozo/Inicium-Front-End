@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 
-    background: #dcdcdc;
+    background: #2B4162;
     height: 70px;
     display: flex;
     justify-content: space-between;
@@ -10,6 +10,8 @@ export const Container = styled.div`
     h1 {
         margin: 10px;
         align-items: center;
+        color: #EEF0F2;
+        font-weight: bold;
     }
 
     button {

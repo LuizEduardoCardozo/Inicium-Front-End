@@ -9,4 +9,7 @@ export const GlobalStyle = createGlobalStyle`
   ul {
       list-style: none;
   }
+  body {
+    background-color: #C6C7C4;
+  }
 `;
