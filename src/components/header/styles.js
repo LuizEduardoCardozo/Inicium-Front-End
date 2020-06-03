@@ -12,6 +12,7 @@ export const Container = styled.div`
         align-items: center;
         color: #EEF0F2;
         font-weight: bold;
+        cursor: default;
     }
 
     button {
